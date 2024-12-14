@@ -6,7 +6,7 @@
 #include "hardware/display.h"
 #include "hardware/battery.h"
 
-constexpr size_t initial_balls = 25;
+constexpr size_t initial_balls = 20;
 
 struct ball
 {
